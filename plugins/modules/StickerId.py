@@ -14,7 +14,7 @@ bughunter0 = Client(
     "Sticker-Bot",
     bot_token = os.environ["BOT_TOKEN"],
     api_id = 20687211,
-    api_hash = os.environ["API_HASH"]
+    api_hash = "4523f58b045175baaeaf1ba29733f31c"
 )
 
 START_STRING = """ Hi {}, I'm Sticker Bot. 
