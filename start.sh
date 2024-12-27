@@ -9,5 +9,5 @@ else
 fi
 cd /Lucy
 pip3 install -U -r requirements.txt
-echo "sᴛᴀʀᴛɪɴɢ ʟᴜᴄʏ ʙᴏᴛ...."
+echo "sᴛᴀʀᴛɪɴɢ ʟᴇᴏ ʙᴏᴛ...."
 python3 bot.py
